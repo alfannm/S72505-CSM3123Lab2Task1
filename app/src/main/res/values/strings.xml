@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">S72505_Lab2_Task1</string>
+    <string name="app_name">Lab Widgets</string>
+    <string name="label_name">Your Name</string>
+    <string name="hint_name">Enter your name</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_prefs">Preferences</string>
+    <string name="label_country">Country</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="switch_notify">Enable notifications</string>
+
+    <!-- Spinner array -->
+    <string-array name="countries">
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+        <item>Singapore</item>
+        <item>Thailand</item>
+        <item>Brunei</item>
+    </string-array>
 </resources>
